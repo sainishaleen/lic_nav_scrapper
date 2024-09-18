@@ -1,0 +1,18 @@
+company_fund_price_trends.csv
+final_fund_navs_data.csv
+
+downloads/
+backup/
+
+*.Zone.Identifier
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore Windows Zone.Identifier files
+*.Zone.Identifier
+
+# Ignore log files
+logs/
+*.log
